@@ -1,4 +1,4 @@
-### Peg-Solitaire-GUI
+### C++ Console Games
 
 **INSTALLATION**  
 In order to install the project, enter the command in your terminal:  
