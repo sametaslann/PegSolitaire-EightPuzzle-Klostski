@@ -19,6 +19,7 @@ public:
     void setShape(vector<vector<int>> shape,int x); 
     bool moveControl(int num, int direction);
 
+
 private:
    vector<vector<char>> board;
    vector<vector<int>> shape0;
