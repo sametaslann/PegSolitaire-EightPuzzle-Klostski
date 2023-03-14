@@ -2,8 +2,6 @@
 
 //This is the implementation for the class BoardGame2D.
 
-//The interface for the class HourlyEmployee is in
-
 //the header file boardgame.h.
 
 
