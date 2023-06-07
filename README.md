@@ -2,7 +2,7 @@
 
 **INSTALLATION**  
 In order to install the project, enter the command in your terminal:  
-`git clone https://github.com/sametaslann/PegSolitaire-EightPuzzle-Klostski`
+`git clone https://github.com/sametaslann/PegSolitaire-EightPuzzle-Klostski-Games.git`
 
 **COMPILATION**  
 In order to compile the project, enter the command in your terminal:    
